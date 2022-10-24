@@ -12,5 +12,5 @@ Some of my favorite tools:
 
 My status:
 
-- 🌱 I’m currently learning the fullstack framework [Remix.run 💿](https://remix.run) and advanced TypeScript
+- 🌱 I’m currently learning the React-based fullstack framework [Remix.run 💿](https://remix.run), and advanced TypeScript
 - 📫 How to reach me: https://www.linkedin.com/in/jarle-mathiesen/
