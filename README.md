@@ -8,7 +8,7 @@ Some of my favorite tools:
 
 - 🛠️ Java/Kotlin, TypeScript, Python
 - 💾 PostgreSQL, SQLite
-- ☁️ Google Cloud
+- ☁️ Google Cloud, Cloudflare Workers
 
 My status:
 
