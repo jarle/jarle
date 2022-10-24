@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**jarle/jarle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Oslo-based full stack developer who loves developer productivity and creating software.
 
-Here are some ideas to get you started:
+I mainly use github for my personal projects, feel free to look around 🗺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my favorite tools:
+
+- 🛠️ Java/Kotlin, TypeScript, Python
+- 💾 PostgreSQL, SQLite
+- ☁️ Google Cloud
+
+My status:
+
+- 🌱 I’m currently learning the fullstack framework [Remix.run 💿](https://remix.run) and advanced TypeScript
+- 📫 How to reach me: https://www.linkedin.com/in/jarle-mathiesen/
