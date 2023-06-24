@@ -13,7 +13,8 @@ Some of my favorite tools:
 My status:
 
 - 🌱 I’m currently learning:
-  - OpenAI APIs and prompt engineering 🤖
-  - The node.js fullstack framework AdonisJS
-  - xstate for state management
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jarle-mathiesen/)
+  - Building AI-based applications ([youtubesummarized.com](https://youtubesummarized.com))
+  - xstate for fullstack state management
+- 📫 How to reach me:
+  - [twitter](https://twitter.com/jarlemathiesen)
+  - [LinkedIn](https://www.linkedin.com/in/jarle-mathiesen/)
