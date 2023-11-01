@@ -14,7 +14,7 @@ My status:
 
 - 🌱 I’m currently learning:
   - Building AI-based applications ([youtubesummarized.com](https://youtubesummarized.com))
-  - adonis.js
+  - AdonisJS
 - 📫 How to reach me:
   - [twitter](https://twitter.com/jarlemathiesen)
   - [LinkedIn](https://www.linkedin.com/in/jarle-mathiesen/)
