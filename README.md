@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Oslo-based full stack developer passionate about creating software.
+I am an Oslo-based full stack developer passionate about AI and creating software.
 
 I use github for my personal projects, feel free to look around 🧭
 
