@@ -5,7 +5,7 @@ I am an Oslo-based full stack developer passionate about AI and creating softwar
 I use github for my personal projects, feel free to look around 🧭
 
 I'm currently building:
-- https://youtubesummarized.com
+- https://summyt.app
 - https://matstack.dev
 
 
